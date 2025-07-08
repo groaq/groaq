@@ -22,7 +22,7 @@ To showcase your repositories, add them here as Markdown links.
 Example format:
 - [Project Name](https://github.com/groaq/project-repo) – Short project description.
 -->
-
+- [Cyclistic Case Study](https://github.com/groaq/cyclistic-case-study)
 - _Stay tuned! More projects coming soon..._
 
 ---
