@@ -29,7 +29,7 @@ Example format:
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gunnar%20Roaquin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gunnar-roaquin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gunnar%20Roaquin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/groaq/)
 
 ---
 
