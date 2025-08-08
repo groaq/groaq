@@ -10,6 +10,7 @@ Passionate about turning raw data into actionable insights.
 - **SQL** – Data querying and database management
 - **Excel** – Advanced formulas, data visualization, and analytics
 - **Tableau** – Interactive dashboards and data storytelling
+- **Python** – Data analysis and visualization using pandas and matplotlib 
 
 ---
 
@@ -17,11 +18,6 @@ Passionate about turning raw data into actionable insights.
 
 Here are some of my data analytics projects—check them out!
 
-<!--
-To showcase your repositories, add them here as Markdown links.  
-Example format:
-- [Project Name](https://github.com/groaq/project-repo) – Short project description.
--->
 - [Cyclistic Case Study](https://github.com/groaq/cyclistic-case-study)
 - [Superstore Sales Analysis](https://github.com/groaq/sales-analysis)
 
