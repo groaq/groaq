@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gunnar Roaquin (groaq)!
+# 👋 Hi, I'm Gunnar Roaquin!
 
 🎓 **Recent graduate from University at Albany**  
 Passionate about turning raw data into actionable insights.
@@ -23,7 +23,7 @@ Example format:
 - [Project Name](https://github.com/groaq/project-repo) – Short project description.
 -->
 - [Cyclistic Case Study](https://github.com/groaq/cyclistic-case-study)
-- _Stay tuned! More projects coming soon..._
+- [Superstore Sales Analysis](https://github.com/groaq/sales-analysis)
 
 ---
 
